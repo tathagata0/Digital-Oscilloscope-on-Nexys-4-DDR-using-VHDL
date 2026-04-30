@@ -3,6 +3,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Language](https://img.shields.io/badge/Language-VHDL--2008-blue)
 ![Platform](https://img.shields.io/badge/Platform-Nexys%204%20DDR%20(Artix--7)-orange)
+![IDE](https://img.shields.io/badge/IDE-Vivado%202025.2-purple)
 
 VHDL implementation of a Digital Storage Oscilloscope for the Artix-7 FPGA (Nexys 4 DDR). This project features a custom Direct Digital Synthesis (DDS) internal wave generator, dual-port BRAM memory buffering, real-time VGA output (640x480), and an interactive UI with 7-segment multiplexing for Trigger, VPOS, and Volts/Time scaling.
 
